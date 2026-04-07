@@ -47,7 +47,6 @@
 ### 2) Fin-Text: 금융 리포트 기반 맞춤형 투자 추천 시스템
 * **기간:** 2029.09 ~ 2029.12
 * **설명:** 증권사 리포트의 텍스트 데이터를 분석하고 재무 지표를 결합하여 사용자 성향에 최적화된 종목을 추천하는 시스템
-* **기술 스택:** Python, PyTorch, KoBERT, FastAPI
 * **GitHub:** [Fin-Text GitHub 바로가기](https://github.com/sungjin0616)
 
 ### 3) ESG-Scraper: 기업 사회적 책임(ESG) 데이터 자동 산출 모델
